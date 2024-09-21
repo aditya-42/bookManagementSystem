@@ -1,0 +1,21 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+h1,
+form {
+    text-align: center;
+}
+
+p.error {
+    color: red;
+    text-align: center;
+}
